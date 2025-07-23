@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+numpy
+pynput
+pygetwindow
+psutil
+keyboard
+streamlit
+pandas
+xgboost
+scikit-learn
+tensorflow
+streamlit-webrtc
