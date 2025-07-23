@@ -63,26 +63,6 @@ Attention-Fatigue-Detector/
 - Adjust detection settings in the sidebar for best results.
 - Fatigue data is logged automatically every 30 seconds.
 - Use the trend chart to monitor your alertness over time.
-
-## What to Upload to GitHub
-**Upload:**
-- All files in `attention-fatigue-detector/` except those listed below.
-- Include `requirements.txt`, `dashboard.py`, `README.md`, and any source/data files (except large raw data).
-
-**Do NOT upload:**
-- The `venv/` folder (your virtual environment)
-- Any `.pyc` files or `__pycache__/` folders
-- Large raw video files or personal data
-- OS-specific files like `.DS_Store` or `Thumbs.db`
-
-**.gitignore example:**
-```
-venv/
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-data/fatigue_logs.csv  # (optional: if you don't want to share your logs)
 ```
 
 ## Credits
